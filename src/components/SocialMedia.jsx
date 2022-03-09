@@ -14,7 +14,7 @@ const SocialMedia = () => {
         </a>
       </div>
       <div>
-        <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
+        <a href="https://twitter.com/" target="_blank" rel="noreferrer">
           <BsTwitter />
         </a>
       </div>
